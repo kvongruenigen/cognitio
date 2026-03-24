@@ -10,10 +10,13 @@ The app is an Electron + React desktop application with a local SQLite database.
 
 ## Getting started
 
-- Install the beta version.
-  - [Windows Installer](https://github.com/kvongruenigen/cognitio/releases/download/beta-testing/Cognitio.Setup.0.1.0-beta.exe)
-  - [Mac Installer (ARM)](https://github.com/kvongruenigen/cognitio/releases/download/beta-testing/Cognitio-0.1.0-beta-arm64.dmg)
-  - [Mac Installer (Intel)](https://github.com/kvongruenigen/cognitio/releases/download/beta-testing/Cognitio-0.1.0-beta.dmg)
+- Install the latest beta version:
+
+  - [Windows Installer](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio.Setup.exe)
+  - [Mac Installer (ARM)](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio-arm64.dmg)
+  - [Mac Installer (Intel)](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio.dmg)
+  - [Linux AppImage](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio.AppImage)
+
 - Close other heavy applications if possible.
 
 ## Settings & localization
