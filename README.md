@@ -14,7 +14,7 @@ The app is an Electron + React desktop application with a local SQLite database.
 
   - [Windows Installer](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio.Setup.exe)
   - [Mac Installer (ARM)](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio-arm64.dmg)
-  - [Mac Installer (Intel)](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio.dmg)
+  - [Mac Installer (Intel)](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio-x64.dmg)
   - [Linux AppImage](https://github.com/kvongruenigen/cognitio/releases/latest/download/Cognitio.AppImage)
 
 - Close other heavy applications if possible.
