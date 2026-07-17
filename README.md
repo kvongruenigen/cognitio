@@ -6,7 +6,12 @@ The general idea comes from the NIH Toolbox Cognition Battery and PsyToolkit.
 
 ## Overview
 
-The app is an Electron + React desktop application with a local SQLite database. It supports multilingual UI (English/Spanish), configurable test settings, and session reporting.
+The app is an Electron + React desktop application with a local SQLite database. It supports multilingual UI, configurable test settings, and session reporting.
+
+Available languages are:
+- English 🇬🇧
+- Spanish 🇪🇸
+- Russian 🇷🇺
 
 ## Getting started
 
