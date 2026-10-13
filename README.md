@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://kvongruenigen.github.io/cognitio/assets/cognitio-mark.png" alt="Cognitio logo" width="120">
-</p>
+![Cognitio](assets/cognitio-lockup-dark.png)
 
 # Cognitio
 
