@@ -23,7 +23,7 @@ For previous versions and release notes, see [Releases](https://github.com/kvong
 
 ## Try it in your browser
 
-[Cognitio Light](https://kvongruenigen.github.io/cognitio/play/) runs all ten tasks without installation. Use a laptop or desktop with a keyboard.
+[Cognitio Light](https://kvongruenigen.github.io/cognitio/play/) runs all ten tasks without installation. Use touch controls on a phone or a keyboard on a computer.
 
 - Run anonymous sessions without registering participants.
 - Read task instructions and view results immediately.
